@@ -1,6 +1,6 @@
 #!/bin/bash
 # set env var
-. $DATA_EXCHANGE_HELPER_HOME/scripts/env.sh
+. $DATA_EXCHANGE_HELPER_HOME/src/env.sh
 
 PROGRAM=$(basename $0)
 
